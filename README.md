@@ -12,7 +12,6 @@ This project analyzes delivery delays in an e-commerce company using Excel, Powe
 ## 📊 Tools Used
 - Excel (Pivot Tables, Pareto Analysis)
 - Power BI (Interactive Dashboard)
-- Python (optional, for chart creation)
 - MS Word & PowerPoint (Documentation & Presentation)
 
 ## 📈 Key Insights
