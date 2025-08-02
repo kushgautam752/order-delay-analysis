@@ -29,5 +29,5 @@ This project analyzes delivery delays in an e-commerce company using Excel, Powe
 ![Power BI Dashboard Screenshot](dashboard_screenshot.png)
 
 ---
-*Prepared as part of Internship Business Analyst Project*
+*Prepared as part of the Internship Business Analyst Project*
 
